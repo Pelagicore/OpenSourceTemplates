@@ -1,5 +1,6 @@
 # OpenSourceTemplates
-A set of templates that aims to follow community best practices 
+A set of templates that aim to follow community best practices around 
+releasing open source software.
 
 Please feel free to use these templates as a starting point for text
 and headers in your own project and feel free to send patches on
