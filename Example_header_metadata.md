@@ -4,6 +4,6 @@ This file provides example code to be put in a file that may or may not reach th
 ```
 #
 #   Copyright (C) 2017 Pelagicore AB
-#   This file is licensed under the MIT license
+#   SPDX license identifier: MIT
 #
 ```
