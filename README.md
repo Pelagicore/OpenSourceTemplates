@@ -16,6 +16,8 @@ copyright and license on a per-file basis. We use the SPDX "short tag"
 format for this. SPDX license identifiers for various licenses are
 available here; https://spdx.org/licenses/
 
+The Free Software Foundation Europe has created a document on software reuse that they've contributed to the OpenChain project; https://github.com/OpenChain-Project/curriculum/blob/master/guides/Reuse-for-OpenChain.md
+
 ## License and Copyright
 
 Copyright &copy; Pelagicore AB 2017
