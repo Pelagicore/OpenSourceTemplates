@@ -1,9 +1,9 @@
-   Example snippet for a C/C++ file header licensed under an MIT
-   license. Note that the MIT license doesn't have any commonly used
-   header to include in files. The text below is the entire text of the
-   MIT License.
+# Example snippet for a C/C++ file header licensed under an MIT license
+Note that the MIT license doesn't have any commonly used
+header to include in files. The text below is the entire text of the
+MIT License.
 
-   See also: https://spdx.org/licenses/MIT.html#licenseText
+See also: https://spdx.org/licenses/MIT.html#licenseText
 
 ```
 /*
