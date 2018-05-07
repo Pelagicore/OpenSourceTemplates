@@ -29,3 +29,4 @@ send a letter to Creative Commons, PO Box 1866, Mountain View, CA
 94042, USA.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
+![CC-BY-SA-4.0 logo](https://s3.amazonaws.com/cawst-mainwebsite-public/logos/by-sa.png)
